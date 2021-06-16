@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(28, 136, 28);
+}
+img { 
+    width: 400px;
+}
+#thirDiv {
+    width: 500px;
+    height: 600px;
+    background-color: rgb(148, 14, 14);
+    padding: 50px;
+    border: 5px solid rgb(58, 218, 18)
+}
+#spandId {
+    font-size: 18px;
+    margin: 50px;
+}
